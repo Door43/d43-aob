@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aob:home|Door43 (aob)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aob|d43-aob repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aob/archive/master.zip|d43-aob.zip]]
+
+**Recent Changes**
+{{changes>ns = aob}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aob|Ethnologue data]]
+
